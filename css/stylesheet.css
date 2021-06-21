@@ -3,7 +3,7 @@
 }
 header{    
     height: 100vh;
-    background-image: url(assets/blurry_shade_bg.jpeg);
+    background-image: url(/assets/jake-blucker-OJX7gIU3E6U-unsplash.jpg);
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -19,7 +19,7 @@ header{
     
 
        
-#main{background-image:url(assets/marjan-blan-marjanblan-_kUxT8WkoeY-unsplash.jpg);
+#main{background-image:url(/assets/marjan-blan-marjanblan-_kUxT8WkoeY-unsplash.jpg);
     background-size: cover;
     background-color:#5D576B ;
     color: rgb(0, 0, 0);
