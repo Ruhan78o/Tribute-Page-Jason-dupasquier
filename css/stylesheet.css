@@ -104,7 +104,7 @@ header{
     width:auto;  
     height: 100vh;
     background-image: url(assets/jake-blucker-OJX7gIU3E6U-unsplash.jpg);
-    background-size: cover;
+    background-size: contain;
     background-position: center center;
     position: relative;
     display: flex;
