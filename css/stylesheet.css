@@ -1,13 +1,7 @@
 *{box-sizing: border-box ;
 
 }
- html {
-     background: url(assets/darren-nunis-cxE7SXKnzv0-unsplash.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 header{    
     height: 100vh;
     background-image: url(assets/jake-blucker-OJX7gIU3E6U-unsplash.jpg);
@@ -26,7 +20,7 @@ header{
     
 
        
-#main{background-image:url(assets/darren-nunis-cxE7SXKnzv0-unsplash.jpg);
+#main{background-image:url(assets/marjan-blan-marjanblan-_kUxT8WkoeY-unsplash.jpg);
     background-size: cover;
     background-color:#5D576B ;
     color: rgb(0, 0, 0);
